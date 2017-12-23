@@ -18,7 +18,7 @@ III. Design Decisions
 
 IV. Challenge I Faced
 -------------------------
-* Even though my code was giving the proper output, there were some undesired ip_port values getting printed between each valid output line, later I figured out that it was due to newlines between each entry in my NAT.txt and FLOW.txt files which I was taking for granted to be correct as I copy pasted directly from the email. It was fun debugging everything and realising this silly mistake at the end finally.I 
+* Even though my code was giving the proper output, there were some undesired ip_port values getting printed between each valid output line, later I figured out that it was due to newlines between each entry in my NAT.txt and FLOW.txt files which I was taking for granted to be correct as I copy pasted directly from the email. It was fun debugging everything and realising this silly mistake at the end finally.
 
 
 
