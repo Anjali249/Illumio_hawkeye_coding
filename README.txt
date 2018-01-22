@@ -1,3 +1,7 @@
+Challenge: Your program will read a list of NAT entries and a list of flows, and output the flows after they have been processed by your NAT.  
+
+
+
 I. File List
 -------------
 Main.cpp     
